@@ -26,7 +26,7 @@ describe('cars api', function() {
     it('should create a new car', function(done) {
       var car = {
         date: "2013-01-14T23:54:27.044Z",
-        desc: "JP's Awesome Red Ferrari",
+        desc: "Awesome Red Ferrari",
         mileage: 3000,
         price: 100000,
         title: "Ferrari 458",

@@ -1,3 +1,2 @@
-
-Let's Get CRUDdy: Building an App with AngularJS and Node.js
-============================================================
+REST DEMO
+Angular+Node
